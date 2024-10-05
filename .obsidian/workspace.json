@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-intro/📝01intro_OWN NOTES.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝01intro_OWN NOTES"
+              "title": "README"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "2d564eed99f03c06",
   "lastOpenFiles": [
+    "02-regression/homework.md",
+    "cohorts/2023/02-regression/homework.md",
+    "README.md",
+    "Untitled.md",
+    "01-intro/📝01intro_OWN NOTES.md",
     "ipynb Jupyter Notebook Homework/homework1 answers.py",
     "ipynb Jupyter Notebook Homework/homework1",
     "ipynb Jupyter Notebook Homework/homework1.ipynb",
@@ -172,9 +177,7 @@
     "ipynb Jupyter Notebook Homework/laptops.txt.crdownload",
     "ipynb Jupyter Notebook Homework",
     "Untitled Folder",
-    "Untitled.md",
     "🔴SYLLABUS.md",
-    "01-intro/📝01intro_OWN NOTES.md",
     "📝OWN NOTES/Intro 1.md",
     "01-intro/01-what-is-ml.md",
     "📝OWN NOTES"

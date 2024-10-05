@@ -1,3 +1,4 @@
+**2024-10-04**: OWN NOTES: use this (OBSIDIAN) for taking notes, but all homework submission is through command line on **Github**
 # Machine Learning Zoomcamp
 
 <img src="images/zoomcamp.jpg" />
